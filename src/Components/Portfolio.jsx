@@ -46,7 +46,7 @@ const projectList = [
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://sadique-khan.github.io/resume/",
   },
   {
     title: "GitHub Codespaces and github.dev",
@@ -58,7 +58,7 @@ const projectList = [
 
 const Portfolio = () => {
   return (
-    <section className="padding" id="portfolio">
+    <section className="padding" id="portfolio" style={{ backgroundColor: "WhiteSmoke" }}>
       <h2 style={{ textAlign: "center" }}>Portfolio</h2>
       <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
