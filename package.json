@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
-  "source": "src/index.html",
+  "source": "index.html",
   "homepage": "https://sadique-khan.github.io/portfolio",
   "scripts": {
     "start": "parcel",
