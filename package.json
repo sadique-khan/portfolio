@@ -1,5 +1,5 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "portfolio",
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "docs/index.html",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/sadique-khan/portfolio.git"
   },
   "author": "Microsoft",
   "license": "ISC",
@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "educator-js-codespace-template": "file:",
+    "portfolio": "file:",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
